@@ -1,4 +1,4 @@
-### Hi there 👋
+### discord - kasumi#5833
 
 <!--
 **Forfocore/Forfocore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
